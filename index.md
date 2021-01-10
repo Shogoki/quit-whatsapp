@@ -4,9 +4,12 @@
 
 Ab Februar 2020 werde Ich nicht mehr über WhatsApp erreichbar sein. 
 
-Um weiter mit mir in Kontakt zu bleiben, empfehle Ich daher den Umstieg auf den Messenger [Signal](https://signal.org/install/)
+Um weiter mit mir in Kontakt zu bleiben, empfehle Ich daher den Umstieg auf den Messenger [Signal](https://signal.org)
+
+**[Signal installieren](https://signal.org/install/)**
 
 Ich werde auch weiterhin noch von iOS Geräten über iMessage erreichbar bleiben.
+
 
 ## Warum weg von Whatsapp?
 
