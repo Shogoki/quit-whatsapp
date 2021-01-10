@@ -2,7 +2,7 @@
 
 ## Erreichbarkeit
 
-AB Februar 2020 werde Ich nicht mehr über WhatsApp erreichbar sein. 
+Ab Februar 2020 werde Ich nicht mehr über WhatsApp erreichbar sein. 
 
 Um weiter mit mir in Kontakt zu bleiben, empfehle Ich daher den Umstieg auf den Messenger [Signal](https://signal.org/install/)
 
