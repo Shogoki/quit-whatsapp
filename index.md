@@ -40,6 +40,8 @@ Auf Platz 2 landete hier iMessage.
 
 [Messenger Vergliech der Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/whatsappalternativen-messenger-im-ueberblick-13055)
 
+## English
+
 [Why everyone should be using Signal instead of WhatsApp](https://www.wired.co.uk/article/signal-vs-whatsapp)
 
 
